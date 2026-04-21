@@ -1,5 +1,6 @@
 # Online-Attendance-Marking-Using-Face-Recognition
 "EFFORTLESS,SECURE, and AUTOMATED ATTNDANCE MARKING USING FACE RECOGNITION"
+<img width="279" height="180" alt="image" src="https://github.com/user-attachments/assets/6559324d-309b-423f-a5a0-1443e40dd5c5" />
 
 📌OVERVIEW: This project is an automated attendance system that utilizes facial recognition to mark the attendance and to reduce the burder of Traditional attendace marking. It eliminates manual attendance marking, reduces proxy attendance, and improves efficiency using machine learning and deep learning techniques.
 
